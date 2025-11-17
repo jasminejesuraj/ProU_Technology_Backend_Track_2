@@ -112,7 +112,7 @@ The screenshot below shows the **Swagger UI home screen**, which loads automatic
 
  **Swagger UI Screenshot**:
 
-![Swagger UI](swagger_ui.png)
+![Swagger UI](Swagger_UI.png)
 
 
 
